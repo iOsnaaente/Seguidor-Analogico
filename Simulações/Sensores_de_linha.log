@@ -1,0 +1,13 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Bruno Sampaio\Desktop\Seguidor-Analogico\Simulações\Sensores_de_linha.asc
+Start Time: Tue Jun 18 20:46:39 2024
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Limiting fall time of source v4 to 1.9984e-16
+Limiting fall time of source v5 to 1.9984e-16
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.358 seconds.
+
